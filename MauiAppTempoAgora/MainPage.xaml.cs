@@ -115,6 +115,9 @@ namespace MauiAppTempoAgora
                     string dados_previsao = "";
                 }
             }
+            finally
+            {
+            }
         }
     }
 
